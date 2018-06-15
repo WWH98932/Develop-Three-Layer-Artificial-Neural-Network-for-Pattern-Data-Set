@@ -31,6 +31,3 @@ Review the slides of this week, and change Layer 1 as per the following:
   * percent accuracy
 
   * model parameters (W1, B1, W2, B2) 
-
-- Submit your program as tanh_lastname.ipynb.
-- Repeat the above for ReLU activation function and submit your program as relu_lastname.ipynb.
